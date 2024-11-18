@@ -1,0 +1,61 @@
+div {
+    background-color: #86d2f2;
+    background-size: cover;
+    height: 400%;
+}
+
+.full-light {
+    background-color: #1f1d41;
+    padding: 30px;
+    width: 115px;
+    height: 350px;
+    border-radius: 40px;
+}
+
+.stoplight {
+    color: white;
+    background-color: #4b5069;
+    height: 35px;
+    width: 70px;
+    border-radius: 10px;
+}
+
+.readylight {
+    color: white;
+    background-color: #4b5069;
+    height: 35px;
+    width: 70px;
+    border-radius: 10px;
+}
+
+.golight {
+    color: white;
+    background-color: #4b5069;
+    height: 35px;
+    width: 70px;
+    border-radius: 10px;
+}
+
+.light1 {
+    background-color: #4b5069;
+    padding: 30px;
+    width: 30px;
+    height: 40px;
+    border-radius: 48px;
+}
+
+.light2 {
+    background-color: #4b5069;
+    padding: 30px;
+    width: 30px;
+    height: 40px;
+    border-radius: 48px;
+}
+
+.light3 {
+    background-color: #4b5069;
+    padding: 30px;
+    width: 30px;
+    height: 40px;
+    border-radius: 48px;
+}

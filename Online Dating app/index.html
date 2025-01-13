@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main-container">
+        <div class="search-header text-center">
+          <h1>Search Profiles</h1>
+          <input id="searchInput" placeholder="Search by name, gender, or interests" type="search" class="search-input w-100" />
+        </div>
+    
+        <div class="d-none" id="spinner">
+          <div class="d-flex justify-content-center">
+            <div class="spinner-border" role="status"></div>
+          </div>
+        </div>
+    
+        <div id="searchResults"></div>
+      </div>
+      <script src="javascript.js"></script>
+</body>
+</html>
